@@ -1,0 +1,46 @@
+
+    body {
+        background-image: url(weather.webp);
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+    }
+#container {
+    margin: 0 auto;
+    margin-top: 105px;
+    height: 500px;
+    width: 500px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+    b {
+        font-size: 50px;
+        color: aliceblue;
+    }
+    i {
+        font-size: 35px;
+        color: aliceblue;
+    }
+    #url {
+        font-size: 10px;
+        color: aliceblue;
+    }
+    input {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    button {
+        background-color: plum;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .weather-info {
+        color: aliceblue;
+        margin-top: 20px;
+    }
+    
